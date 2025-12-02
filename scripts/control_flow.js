@@ -1,3 +1,5 @@
+
+// if else statement
 let userRole = "admin";
 let accessLevel;
 
@@ -8,9 +10,9 @@ if (userRole === "admin") {
 } else {
     accessLevel = "No access granted";
 }
-
 console.log("Access Level: ", accessLevel)
 
+// Nested if else statement
 let isLoggedIn = true;
 let userMessage;
 
@@ -25,6 +27,7 @@ if (isLoggedIn) {
 }
 console.log("User Message: ", userMessage);
 
+// switch statement
 let userType = "subscriber";
 let userCategory;
 
@@ -41,5 +44,9 @@ switch (userType) {
     default:
         userCategory = "Unknown";
 }
-
 console.log("User Category: ", userCategory);
+
+// Ternary operator
+let isAuthenticated = true;
+let authenticationStatus = isAuthenticated?"Authenticate":"Not authenticated";
+console.log("Authentication Status: ",authenticationStatus)
