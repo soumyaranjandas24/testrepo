@@ -13,12 +13,18 @@ function submitFeedback() {
     document.getElementById('userEmail').innerHTML = email;
     document.getElementById('userJob').innerHTML = job;
     document.getElementById('userDesignation').innerHTML = designation;
-    document.getElementById('userProductType').innerHTML = productType;
-    document.getElementById('userFeedbackText').innerHTML = feedback;
+    document.getElementById('userProductChoice').innerHTML = productType;
+    document.getElementById('userFeedback').innerHTML = feedback;
 
+    document.getElementById('userInfo').style.display = 'block';
 }
-document.getElementById('userInfo').style.display = 'block';
 
 const submitButton = document.getElementById('submitBtn');
 
 submitButton.onclick = submitFeedback;
+
+// document.addEventListener('keydown',function(event){
+//     if(event.key === "Enter"){
+//         submitFeedback();
+//     }
+// });
