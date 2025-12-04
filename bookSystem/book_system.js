@@ -53,3 +53,9 @@ function clearInputs() {
     document.getElementById('bookDescription').value = '';
     document.getElementById('pagesNumber').value = '';
 }
+
+// Function to delete the field from the books list
+function deletebook(index){
+    books.splice(index,1);
+    showbooks();
+}
