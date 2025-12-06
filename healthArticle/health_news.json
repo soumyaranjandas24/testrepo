@@ -1,0 +1,42 @@
+{
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Lifestyle Desk",
+            "title": "Driving patterns that reveal early signs of cognitive decline and memory loss - The Times of India",
+            "description": "Your driving habits might be an early indicator of brain health, according to new research. Subtle changes like avoiding night drives or sticking to f",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/driving-patterns-that-reveal-early-signs-of-cognitive-decline-and-memory-loss/articleshow/125780215.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-125780365,width-1070,height-580,imgsize-1025686,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+            "publishedAt": "2025-12-05T04:24:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "David Nield",
+            "title": "An Existing Vaccine Could Slow Dementia And Cut Death Risk by 30% - ScienceAlert",
+            "description": "A shingles vaccination program that began in Wales in 2013 has led to two discoveries that give fresh hope to efforts to treat dementia: The vaccine appears to reduce the risk of mild cognitive impairment, as well as slowing progression of dementia in those a…",
+            "url": "https://www.sciencealert.com/an-existing-vaccine-could-slow-dementia-and-cut-death-risk-by-30",
+            "urlToImage": "https://www.sciencealert.com/images/2025/12/VaccinePlaster.jpg",
+            "publishedAt": "2025-12-05T01:56:29Z",
+            "content": "A shingles vaccination program that began in Wales in 2013 has led to two discoveries that give fresh hope to efforts to treat dementia: The vaccine appears to reduce the risk of mild cognitive impai… [+3611 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Allyson Chiu",
+            "title": "Cervical cancer screening guidelines just changed. Here’s what it means. - The Washington Post",
+            "description": "The American Cancer Society now says a self-collected vaginal swab to test for HPV, which causes nearly all cervical cancer cases, is acceptable for screening.",
+            "url": "https://www.washingtonpost.com/health/2025/12/04/hpv-cervical-cancer-screening-guidelines/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CWPS6DK6POOV7Q63MNUAZNYUHQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-12-04T23:32:04Z",
+            "content": "The American Cancer Society has endorsed self-collected vaginal samples for cervical cancer screening a change medical experts say will help expand access and improve detection.\r\nThe updated ACS reco… [+473 chars]"
+        }]
+    }
